@@ -1,7 +1,14 @@
 ## Project #3 CI/CD Project
+[Link to the repo](https://github.com/alejandro-baez/Campus-and-Enrollment)
 ### **Overview**
 
 The Campus and Enrollment project was originally a project I developed before my time at Multiverse. By the time I came back to this project over a year and a half had passed. This project was reused for the end of the deployment module. I decided to implement CI/CD through github actions as well as deploy my project through render and trigger a redeploy everytime a change is committed to github. Not only was I able to demonstrate my newly gained knowledge of CI/CD but this also allowed me to showcase my debugging skills as my application wouldn’t run after being outdated for not touching it in almost 2 years. 
+
+### Hosted on Render
+<img width="649" alt="MV-RENDER" src="https://github.com/user-attachments/assets/113d183e-c905-4427-b409-4ba84958bd48">
+
+### CI/CD Implementation
+<img width="1207" alt="MV-CI-CD" src="https://github.com/user-attachments/assets/39d53864-cb5d-42a4-9b51-428ac824d16c">
 
 **What are the users?**
 The primary users of the application are individuals who are seeking to integrate CI/CD to their application and use my application as a learning example. The original purpose of the application was to serve as a backend and frontend service for students and campuses. 
