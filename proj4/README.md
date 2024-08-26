@@ -1,8 +1,17 @@
 ## Project #4 Cloud Elective Project
+[Link to the repo](https://github.com/alejandro-baez/amplify-cognito-trivia)
 ### **Overview**
 
 I built the Move Trivia web application during the Cloud Elective Hackathon project using React to create the front end portion, AWS Cognito for the signup and login, and AWS Amplify for deployment. The app first leads users to a login/signup page and are then allowed to participate in a 9 question movie trivia game where the score is displayed at the end.
 
+### Hosted on Amplify
+<img width="664" alt="MV-Amplify" src="https://github.com/user-attachments/assets/e7ba0565-136d-4b6f-bbe8-bfa2c503c986">
+
+### Cognito User Pool Feature 
+<img width="484" alt="MV-USER-POOL" src="https://github.com/user-attachments/assets/662af5f2-30ad-4294-b532-3c7b96957440">
+
+### SignUp Page
+<img width="474" alt="MV-Signup" src="https://github.com/user-attachments/assets/ee638389-9311-458b-b925-f9f61266d641">
 
 **What are the users?**
 The users of the Movie Trivia app are individuals who are movie fanatics and want to put their movie knowledge to the test. It can also be for the regular movie enjoyer who wants to expand their movie horizons
