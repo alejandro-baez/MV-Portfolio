@@ -1,7 +1,19 @@
 ## Project #1 Front End Project
+[Link to the repo](https://github.com/alejandro-baez/frontend-mv)
+
 ### **Overview**
 
 The Fitness Wiki app is designed to be your #1 exercise learning platform. By fetching exercise data such as names, tutorials, and targeted body areas from the ExerciseDB API and displaying them in an organized and straightforward fashion, Fitness Wiki strives to be your one-stop-shop for everything exercise related. Users are able to search for specific exercises or body areas that they wish to target and can access more information on specific exercises if desired. 
+
+### Home Page
+<img width="943" alt="MV-FRONT-END-HOME" src="https://github.com/user-attachments/assets/30243dac-e9cc-4c33-9176-532d415579c6">
+
+### Search Feature
+<img width="949" alt="MV-FRONT-END-SEARCH" src="https://github.com/user-attachments/assets/6e2bd82b-6291-4a78-9153-2106f8497a64">
+
+### Single Exercise Page
+<img width="950" alt="MV-FRONT-END-INDIVIDUAL" src="https://github.com/user-attachments/assets/dfb3cdfd-9948-4c73-8bd2-37bcdad1cec1">
+
 
 **What are the users?**
 This app is intended for anyone who is remotely interested in exploring and learning about exercises. It could be beginners who are interested in researching which exercises are the most effective, as well as those with experience who may need a refresher.
