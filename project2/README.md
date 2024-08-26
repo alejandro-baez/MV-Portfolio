@@ -1,7 +1,17 @@
 ## Project #2 HackaThon
+[Link to the repo](https://github.com/alejandro-baez/Multiverse-Hackathon/tree/main)
 ### **Overview**
 
 For my Multiverse HackAThon, I decided to focus on a topic that was music related. This was due to my parent company being Warner Music Group, a record label company. In wanting to understand the cross section of music and software engineering, I decided to focus on Spotify’s API to create my own API using Python’s Flask framework to return and store artist information in a Postgres database.  At the time of participating in the HackaThon, I had just learned Python and wanted to bring together my different interests to create a functional application.
+
+### Code Snippet
+<img width="598" alt="MV-HACKATHON-CODE" src="https://github.com/user-attachments/assets/a22c70a7-fee7-45ef-a588-919362ad206b">
+
+### Postman
+<img width="630" alt="MV-HACKATHON-POSTMAN" src="https://github.com/user-attachments/assets/61938f06-703f-4c16-b0a9-e27a96913b46">
+
+### Beekeeper Postgres Database
+<img width="623" alt="MV-HACKATHON-POSTGRES" src="https://github.com/user-attachments/assets/c0e840f9-fc56-4ce6-8f30-cd18a0fd17f9">
 
 **What are the users?**
 The primary users of the application are software engineers who would like to access Spotify’s API in a simpler and more direct way. The reason for this is that Spotify’s token authorization expires after a certain time, this can get in the way of developing a program as one has to constantly refresh and retrieve a new token to continue being able to access Spotifty’s information. My application solves that problem by using Python’s apscheduler library to create a scheduler that refreshes this token after a certain time, ensuring that not a second goes by without having a working token.
